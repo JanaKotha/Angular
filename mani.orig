@@ -1,14 +1,12 @@
-<<<<<<< HEAD
-This is a test file
-fhigsdjhshglkjshkjd
-=======
+
 This is a test file.
-
+fhigsdjhshglkjshkjd
 Testing file
-<<<<<<< HEAD
->>>>>>> First commit changes in mani file
-=======
-
 bdsmnbbjdjd
 skgfgsdkskdgkgks
->>>>>>> added two lines
+
+<<<<<<< HEAD
+
+=======
+added a line
+>>>>>>> aded more lines
